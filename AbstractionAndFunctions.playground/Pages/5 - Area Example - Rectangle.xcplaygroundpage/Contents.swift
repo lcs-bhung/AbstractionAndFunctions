@@ -23,6 +23,7 @@ func areaOfRectangle(length: Double, width: Double) -> Double {
     
 }
 
+
 /*:
  
  Here is how we *invoke* or use the function. Try running this playground to see results:
